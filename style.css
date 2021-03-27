@@ -1,0 +1,20 @@
+.pic{
+    width:300px;
+    height:300px;
+    border-style:double;
+    border-color: darkblue;
+    padding:2px;
+    margin-left:100px;
+}
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    z-index:9;
+}
+.rows{
+float:left;
+   
+}
+.row1{
+    z-index:10;
+}
